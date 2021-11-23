@@ -1,4 +1,13 @@
 # Company
+**Testcase scenario** : one flow end to end including
+1. Login web application
+2. Create a new product
+3. Create a manufacturing order item for the created product on step #3
+4. Update status order to "Done"
+5. Validate manufacturing order is shown corrected (reference, product, state)
+
+**Guideline to run project**
+
 I.Install eclispe : Version: 2019-09 R (4.13.0)
 
 ![image](https://user-images.githubusercontent.com/2147973/142972598-630d1419-b44f-4515-870a-58bfd990265f.png)
